@@ -1,5 +1,6 @@
 # hello-world
 
-Hello Universe, 
+Hello Universe! 
 
-Abubiz here, This is my startup business and I never code a program before, Hope my self learning of github for my first cloning a website cwill be a perfect one for my business.||
+Abubiz here, This is my startup business and I never code a program before. This is my self learning of github cloning to my first website 
+which is hopping a perfect one for my business.|
